@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/CarroselTenis/static/css/main.5eaef3b3.css",
-    "main.js": "/CarroselTenis/static/js/main.6f107fa2.js",
+    "main.css": "/CarroselTenis/static/css/main.57aab04b.css",
+    "main.js": "/CarroselTenis/static/js/main.6cf02f6c.js",
     "static/js/787.3c163599.chunk.js": "/CarroselTenis/static/js/787.3c163599.chunk.js",
+    "static/media/super-shoes.png": "/CarroselTenis/static/media/super-shoes.6c4f1d0f951924f36c9c.png",
     "index.html": "/CarroselTenis/index.html",
-    "main.5eaef3b3.css.map": "/CarroselTenis/static/css/main.5eaef3b3.css.map",
-    "main.6f107fa2.js.map": "/CarroselTenis/static/js/main.6f107fa2.js.map",
+    "main.57aab04b.css.map": "/CarroselTenis/static/css/main.57aab04b.css.map",
+    "main.6cf02f6c.js.map": "/CarroselTenis/static/js/main.6cf02f6c.js.map",
     "787.3c163599.chunk.js.map": "/CarroselTenis/static/js/787.3c163599.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5eaef3b3.css",
-    "static/js/main.6f107fa2.js"
+    "static/css/main.57aab04b.css",
+    "static/js/main.6cf02f6c.js"
   ]
 }
